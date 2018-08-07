@@ -8,6 +8,7 @@ gem 'rails', '~> 5.2.0'
 gem 'bootsnap', require: false
 gem 'coffee-rails'
 gem 'jbuilder'
+gem 'jwt'
 gem 'puma'
 gem 'sass-rails'
 gem 'sqlite3'
